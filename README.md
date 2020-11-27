@@ -1,5 +1,5 @@
 ![IGTI Logo](https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png)
-Format: ![Alt Text](url)
+![Link para o curso](https://www.igti.com.br/)
 
 # IGTI-Bootcamp-Online---Cientista-de-Dados
 Aqui estão os exercícios referentes ao Bootcamp Online de Cientista de Dados do IGTI
