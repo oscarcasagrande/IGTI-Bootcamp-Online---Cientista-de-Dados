@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![IGTI Logo](https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png)
 Format: ![Alt Text](url)
 
 # IGTI-Bootcamp-Online---Cientista-de-Dados
